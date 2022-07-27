@@ -1,11 +1,11 @@
 # SST60
 
 ## Fully open source multi-layout 60% PCB
-![](images/Render-Top.png)
-![](images/Render_Back.png)
+![Render1](https://github.com/dededecline/SST60/blob/main/Images/Render-Top.png)
+![Render2](https://github.com/dededecline/SST60/blob/main/Images/Render-Back.png)
 
 ## Layout support
-![](images/Layout-KLE.png)
+![KLE](https://github.com/dededecline/SST60/blob/main/Images/Layout-KLE.png)
 
 ## Features
 - RGB Underglow
