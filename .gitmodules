@@ -1,0 +1,12 @@
+[submodule "cipulot_kicad_parts"]
+	path = cipulot_kicad_parts
+	url = https://github.com/Cipulot/cipulot_kicad_parts.git
+[submodule "MX_Alps_Hybrid"]
+	path = MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "random-keyboard-parts.pretty"]
+	path = random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
+[submodule "acheron_Components.pretty"]
+	path = acheron_Components.pretty
+	url = https://github.com/AcheronProject/acheron_Components.pretty.git
