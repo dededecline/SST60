@@ -1,11 +1,11 @@
 # SST60
 
 ## Fully open source multi-layout 60% PCB
-![](images/Render-Top.png)
-![](images/Render_Back.png)
+![Render1](https://github.com/dededecline/SST60/blob/main/Images/Render-Top.png)
+![Render2](https://github.com/dededecline/SST60/blob/main/Images/Render-Back.png)
 
 ## Layout support
-![](images/Layout-KLE.png)
+![KLE](https://github.com/dededecline/SST60/blob/main/Images/Layout-KLE.png)
 
 ## Features
 - RGB Underglow
@@ -19,4 +19,4 @@
 - Flex meme cuts
 
 ## ***DISCLAIMER***
-This PCB has ***NOT*** been tested, and I, or any parties involved in the development of the pcb, are not liable if you end up with a non-functional pcb. Order at your own risk
+This PCB has ***NOT*** been tested, and I, or any parties involved in the development of the pcb, are not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
