@@ -209,6 +209,12 @@
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/aac719d2-722f-425f-aa6d-edf7bcbac441"
       (reference "#PWR0144") (unit 1) (value "+3V3") (footprint "")
     )
+    (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/bdaa52d1-7cb2-407a-b4c1-5d93ac076eb5"
+      (reference "#PWR0145") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/8988eb5c-d40f-430f-b968-d5d8451d34b8/344a3522-748f-4cb7-b349-fc6d1db1fa52"
+      (reference "#PWR0146") (unit 1) (value "GND") (footprint "")
+    )
     (path "/8988eb5c-d40f-430f-b968-d5d8451d34b8/88583a74-404b-4b4a-8e84-f280a9dc6636"
       (reference "C_1V-Decoup1") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
@@ -468,52 +474,52 @@
       (reference "D68") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/1c0e3c6c-2761-4a64-b11d-645b6c761914"
-      (reference "D69") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D69") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/1cefe88c-15e8-4d9e-bf0b-c50ff5ee37a9"
-      (reference "D70") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D70") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/f09c7bbf-b5a6-40f6-816b-6aec7b69fb44"
-      (reference "D71") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D71") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/edb2bcc4-7c55-4837-9b64-42480408b8f8"
-      (reference "D72") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D72") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/c3b8222a-7310-4257-945c-e6031926e7aa"
-      (reference "D73") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D73") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/2ab170af-2854-429c-b0cd-680bd3ead3d6"
-      (reference "D74") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D74") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/21bea573-7b99-450a-8db7-9f556434cbb1"
-      (reference "D75") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D75") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/497006e5-eeab-4860-a851-5f1a7cf579c0"
-      (reference "D76") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D76") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/8b65e9c3-2d49-462b-a3c4-190157656c7d"
-      (reference "D77") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D77") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/f33f930b-beb7-480e-b6f3-47c09c2077da"
-      (reference "D78") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D78") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/2b2f4c53-a036-403c-b827-312efcbb6d84"
-      (reference "D79") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D79") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/eae53bb2-c964-4f93-ad22-ddd85aebcd1f"
-      (reference "D80") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D80") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/3684aa74-a655-4a24-8f6e-5a7eb37d0b96"
-      (reference "D81") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D81") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/6349d8c5-847b-4d82-8f76-3d96d91d1e70"
-      (reference "D82") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D82") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/cdbec884-d52e-4982-b236-25d1f2dc27e4"
-      (reference "D83") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D83") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/9f663da3-c1ce-479b-b9c4-002e46c49976"
-      (reference "D84") (unit 1) (value "WS2812B-2020") (footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm")
+      (reference "D84") (unit 1) (value "WS2812B-2020") (footprint "acheron_Components:LED_WS2812_2020")
     )
     (path "/9e40d895-a947-4b33-a248-0d0dda788e56/1e89bf40-ce82-42b8-b215-3fc4d37db29b"
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_0805_2012Metric")
@@ -789,7 +795,10 @@
       (reference "R_USB2") (unit 1) (value "5k1") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/8988eb5c-d40f-430f-b968-d5d8451d34b8/b7af517c-40fd-410a-ad3f-c069e7e42a68"
-      (reference "SW1") (unit 1) (value "Reset") (footprint "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical")
+      (reference "SW1") (unit 1) (value "Boot") (footprint "Button_Switch_SMD:SW_SPST_TL3342")
+    )
+    (path "/8988eb5c-d40f-430f-b968-d5d8451d34b8/927f9965-d472-4f71-b8e3-aaa670f982bb"
+      (reference "SW2") (unit 1) (value "Reset") (footprint "Button_Switch_SMD:SW_SPST_TL3342")
     )
     (path "/8988eb5c-d40f-430f-b968-d5d8451d34b8/f99906a3-23b3-47d0-8d22-51e1b4c9e5d6"
       (reference "U1") (unit 1) (value "RP2040") (footprint "cipulot_parts:RP2040-QFN-56")
@@ -802,6 +811,9 @@
     )
     (path "/9e40d895-a947-4b33-a248-0d0dda788e56/f3e5dbf8-f964-41ad-948f-cd9effbef6f3"
       (reference "U4") (unit 1) (value "PRTR5V0U2X") (footprint "random-keyboard-parts:SOT143B")
+    )
+    (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/2d63ab5d-5d76-4fb9-8f74-7fdcb74f6540"
+      (reference "U5") (unit 1) (value "74AHCT1G125") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/9e40d895-a947-4b33-a248-0d0dda788e56/f18511fe-511e-4722-a2e1-5c95a87942f4"
       (reference "USB1") (unit 1) (value "HRO-TYPE-C-31-M-12") (footprint "cipulot_parts:HRO-TYPE-C-31-M-12-Assembly")
