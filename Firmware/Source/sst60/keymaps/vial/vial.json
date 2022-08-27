@@ -2,7 +2,7 @@
   "name": "Serendipity",
   "vendorId": "0x6F6A",
   "productId": "0x5344",
-  "lighting": "qmk_rgblight",
+  "lighting": "vialrgb",
   "matrix": {
     "rows": 5,
     "cols": 15
