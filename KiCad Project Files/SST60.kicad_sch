@@ -188,9 +188,6 @@
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/901ba39d-c0f8-4223-a76e-cb0f004fd99e"
       (reference "#PWR0137") (unit 1) (value "GND") (footprint "")
     )
-    (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/8dc136fe-b6fe-499c-a3e6-e74f8e328227"
-      (reference "#PWR0138") (unit 1) (value "+3V3") (footprint "")
-    )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/62d760be-e0ea-4de9-b391-1ba3752ae813"
       (reference "#PWR0139") (unit 1) (value "GND") (footprint "")
     )
@@ -200,20 +197,23 @@
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/33db09a9-8fe8-4f12-86ca-c10b1016c2c6"
       (reference "#PWR0141") (unit 1) (value "GND") (footprint "")
     )
-    (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/51e2e727-e22a-4a21-932d-0357e37d4117"
-      (reference "#PWR0142") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/eb976be2-5c3f-4722-b500-8c506d34ad38"
-      (reference "#PWR0143") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/aac719d2-722f-425f-aa6d-edf7bcbac441"
-      (reference "#PWR0144") (unit 1) (value "+3V3") (footprint "")
-    )
     (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/bdaa52d1-7cb2-407a-b4c1-5d93ac076eb5"
       (reference "#PWR0145") (unit 1) (value "GND") (footprint "")
     )
     (path "/8988eb5c-d40f-430f-b968-d5d8451d34b8/344a3522-748f-4cb7-b349-fc6d1db1fa52"
       (reference "#PWR0146") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/77233377-714f-4bf3-a9fb-00cd38a8cf83"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/7ac94e94-6cf3-4064-a331-449e42345a88"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/8f96b87b-51e2-4eb4-8028-3361e78d1abb"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/c574bf4f-fd05-4ceb-a4e4-1a3897b10cf7"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/8988eb5c-d40f-430f-b968-d5d8451d34b8/88583a74-404b-4b4a-8e84-f280a9dc6636"
       (reference "C_1V-Decoup1") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0402_1005Metric")
