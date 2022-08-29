@@ -20,8 +20,4 @@
 - Flex meme cuts
 
 ## ***DISCLAIMER***
-<<<<<<< HEAD
 This PCB has been tested and confirmed to work properly. I nor any parties involved in the development of the pcb are liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
-=======
-This PCB has been tested, ***BUT*** I, or any parties involved in the development of the pcb, are not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
->>>>>>> 9c74a94 (Updated LED wiring. Changed production file version scheme.)
