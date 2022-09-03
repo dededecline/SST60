@@ -20,4 +20,4 @@
 - Flex meme cuts
 
 ## ***DISCLAIMER***
-This PCB has been tested and confirmed to work properly. I nor any parties involved in the development of the pcb are liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
+This PCB has been tested and confirmed to work properly. The members of the PCB development team are not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
