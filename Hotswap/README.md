@@ -1,7 +1,5 @@
 # SST60HS
 
-# SST60
-
 ## Fully open source multi-layout 60% PCB
 ![render](https://github.com/dededecline/SST60/blob/main/Hotswap/Assets/Screenshot%202023-03-09%20at%2023.31.59.jpg)
 
