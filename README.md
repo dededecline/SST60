@@ -1,5 +1,8 @@
 # SST60
 
+## Hotswap
+Looking for hotswap? See [here](https://github.com/dededecline/SST60/tree/main/Hotswap)
+
 ## Fully open source multi-layout 60% PCB
 ![Render1](https://github.com/dededecline/SST60/blob/main/Images/Render-Top.png)
 ![Render2](https://github.com/dededecline/SST60/blob/main/Images/Render-Back.png)
